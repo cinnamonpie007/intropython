@@ -1,4 +1,4 @@
-from logger import input_data, print_data, copy_data, remove_val
+from logger import input_data, print_data, copy_data
 
 
 def interface():
